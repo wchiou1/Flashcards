@@ -1,0 +1,201 @@
+I. Bacterial membranes; Peptidoglycan biosynthesis
+-Recognize the differences between Gram-negative and Gram-positive bacteria (peptidoglycan crosslinking, relative size, inner and outer membrane components
+            Lipid bilayer membrane has phosphate and fatty acid chains
+Gram-negative:double membrane, one on the inside and one on the outside of the peptidoglycan layer, with periplasm in the middle. Pep layer is thinner, <50% crosslinked.
+Lots of things can stay in the periplasmic space around the pep layer (solute-binding ptns, hydrolytic enz, electron carriers, transport ptns)
+Lipopolysaccharides are “zip codes” which extend into outer space and make endotoxins, from outside end of the ptn, 
+ 
+Gram-positive:thick layer of peptidoglycan on the outside of a single membrane
+Long teichoic acids through pep layer, affect permeability and character
+Also lipoteichoic acids, going all the way down and anchoring in the lipid membrane
+ 
+-Features of peptidoglycan biosynthesis; antibiotic targets (cycloserine, bacitracin, beta-lactam antibiotics, phosphonomycin)
+            
+Peptidoglycan synthesis: assists in stricture, uses D-form ptns, in matrix structure that acts like stretchy chicken wire, transpep acids allow adhesions which allows for easier infection of targets.
+ 
+Constructed outside, needs to move through cytoplasmic membrane pep bond formation w/out ribosomes, needs a lot of precursors.
+ 
+NRPS – non-ribosomal peptide synthetase
+Park nucleotide – intermediate to make peptidoglycan
+MreB and MreC are actin analogs
+ 
+MUST KNOW phosphomycin (antibiotic from strep) and cycloserine (antibiotic for tuberculosis). 
+ 
+Antibiotic targets: beta-lactam (penicillin, amox, etc) prevents cell division but the cell still lives
+II.  Transport mechanisms
+            -Involvement of peptidoglycan and inner and outer membranes in nutrient transport
+Porins – hydrophilic items fit through outer membrane narrow channels
+ 
+Hydrophobes need carriers
+ 
+Siderophores/chelators – bring in metal ions with assisted transport, Fe+ brought by ferrochrome
+            
+            -Examples of porins (OmpF, OmpC, TonB)
+ 
+OmpF and C are for small molecules, phage receptors
+ 
+TonB porins accepts siderophores/chelators specifically, metal ion carriers
+ 
+            -Simple diffusion
+No energy input, concentration-dependent, small gas and water molecules (CO2, H2O, N2, H2S), usually in channels
+            -Facilitated diffusion
+No energy input, carriers pull impermeable compounds via their concentration gradients, distributed similar to the Michaelis-Menten (enzyme saturation) way, where it speeds up until all are saturated and it does not speed up as much
+            -Energy depending transport 
+Primary (proton transloction/ABC transporters):Energy-producing event like proton translocation (cell respiration, proton-motive force) and ATP hydrolysis, so an active sort of reaction
+ 
+            ABC – ATP binding cassettes, bind ATP to import/export ptns at inner membrane, gets hydrolyzed and changes shape
+ 
+Secondary (Symport/Uniport/Antiport):Electrochemical gradient, so a passive force existing outside of any individual reaction
+ 
+            Symport – cotransport, 2 solutes, same direction with one carrier (H+ and histidine)
+            Antiport – vice/versa w/ same carrier, solutes going opposite directions
+            Uniport – one molecule one direction
+            
+            -Shock sensitive vs. shock insensitive transport systems
+ 
+ 
+            -Group translocation, e.g. phosphotransferase system: Components and relationship to carbon catabolite repression control
+Cascades with PTS all carbs end up as PEP, phosphoenyl pyruvate, then pyruvate
+PEP + E1 àE1 + Phos~HPr +E2A àE2A (specific to carb)~Phos, then B, then C which is membrane-bound and brings it into the cell
+ 
+Remember, glucose effect is called inducer exclusion, inhibition of uptake using non-preferred pathways. E2A does this, without glucose E2A is stuck being phosphorylated, and cannot inhibit non-preferred carbs anymore so the cell moves on. Phosphorylated E2A activates adenylate cyclase, which turns ATP into cAMP, which accumulates and makes cap activation of non-preferred substrates like lactose and arabinose.
+ 
+ 
+III.  Energy transduction
+            -ATP production via substrate level phosphorylation; “PGTP”
+Phosphate group transfer potential – ATP synthesis directly from bonds of precursor molecules, converts them from high to low energy molecules
+ 
+High potential = PEP to pyruvate
+Low potential = PGlucose to glucose
+ 
+            -ATP production via energy transducing systems
+ 
+ 
+            -Mitchell chemiosomotic hypothesis
+ 
+Energy transduction occurs via coupling of assemblies:
+ 
+a. membrane is impermeable to H+ and OH-, mem has low conductance
+b. respiratory chain is localized in the mem in such a way that a pH and potential gradient is created (H ions coming from organic compounds)
+c. ATP synthetase takes advantage of pH gradient and mem potential to synth ATP from ADP and a phosphate
+ 
+            -Components of respiratory chain and proton translocation processes (proton and electron carriers)
+Proton carriers – NAD (to NADH), FAD (to FADH then FADH2), coenzymes (levels change with O2 levels)
+Electron carriers – cytochromes (heme-containing, like hemoglobin with Fe3+ in blood, carrying oxygen) are embedded in the membrane.
+            Fe3+ gets reduced to Fe2+ in the presence of oxygen
+ 
+            -ATP synthetase structure and targets for inhibitors; driving force for ATP synthesis?
+           
+
+ Movement of protons from outside to inside is used for ATP generation as well as other processes
+Protons leave the cell via respiratory chain proteins, electrons remain inside. Protons reenter through the ATP synthase through C rotor and out through gamma, alpha-beta makes ATP
+
+-effect of no final electron acceptor
+All protons get backed up, no ATP is made 
+
+IV.  Utilization of carbohydrates
+            -Requirement and role of fueling reactions
+Needed to make 9/12 precursor molecules directly, 3/12 indirectly (Krebs cycle) for biosynthesis
+Only problem is there are things needed that don’t come with glucose (N,P,S) and energy/reducing power and single-C units
+
+            -Sources for glucose by a chemoheterotroph (polysaccharide utilization)
+Starch (amylopectin + cellulose), glycogen, pectin, chitin
+
+            -Polysaccharide hydrolases
+
+
+            -Overall differences and similarities between Embden-Meyerhof-Parnas, Entner–Doudoroff, Pentose phosphate and Phosphoketolase pathways; presence or absence of pathway-defining “signature” enzymes (PFK, G-6-P DH, PK, etc.)
+
+-EMP pathway:
+8ATP per glucose, constitutive enzymes
+
+-ED pathway:
+7ATP/glucose
+
+-Pentose phosphate pathway:
+12NADPH and max of 6ATP/glucose
+Primary purpose is reducing power and forming pentose phosphates
+
+-Phosphoketolase pathway:
+With glucose - 1ATP
+With ribose - 2ATP
+
+-Pathway control points and “signalling” molecules
+C, energy charge, reducing power
+
+-C signals and path controls:
+
+
+
+-Energy signals and path controls:
+
+
+-Reducing power signals and path controls:
+
+
+            -Adenylate energy charge
+ATP+1/2ADP / ATP+ADP+AMP aka measures energy status of the cell
+            -Roles for precursor molecules
+
+
+            -Gluconeogenesis and its importance
+Making glucose from scratch when glucose is not the carbon source (using something smaller) because we need to make ribose sugars for DNA and RNA, and we need glucose to make peptidoglycan
+
+            -The synthesis (and need) for glucose and phosphoenol pyruvate when growing on a C3and C4carbon source
+ 
+V.  Fermentations
+            -Definition of fermentation: homofermentation vs heterofermentation
+ 
+Homofermenter – produces one major waste product, uses EMP (Embden Meyerhof Parnas pathway) 
+Heterofermenter – produces multiple waste products
+ 
+            -Types of heterofermentations from glucose
+Mixed acid (e. Coli in gut), alcohol (yeast, in commercial business), butyrate (in clostridium), proprionate (in gut, is preservative)
+
+            -Oxidation values; fermentation balance
+Fermentation balance refers to the fact that all redox reactions balance out.
+
+            -Identification of fermentation products from carbon atom and oxidation state balances
+
+
+            -Requirement for NAD+regeneration in the absence of oxygen
+NAD+ is a proton acceptor...
+
+            -Pasteur effect; reason for decrease in glucose uptake/utilization when shifting from an anaerobic to an aerobic environment
+In fermentation by yeast, they can be anaerobes for a little bit via EMP pathway. Any O2 will mean complete cessation of ethanol production which means much less glucose consumption
+
+NADH diverts to ETC and the rxn becomes very glucose-efficient, inhibits pyr production
+
+Initial O2 introduction: charge goes down, PEP goes up (path blocked), EMP becomes inhibited, then some time passes and charge increases and dPEP goes down.
+
+            -Compare lactose uptake between E. coliand Lactic acid bacteria (PTS vs. energy dependent transporter)
+            -Use of isotope labeling to track carbon in a carbohydrate skeleton and identify metabolic routes
+ 
+VI.  PDH reactions and TCA cycle reactions
+            -Role of Citrate synthase
+Pacemaker of Krebs/TCA, regulates how much carbon goes into the cycle, makes citrate
+-Pyruvate dehydrogenase complex and “activation” of pyruvate
+PDH, gets rid of CO2, get some reducing power, etc.
+Pyr + NAH+ ? acetylCoA + NADH + H+ + CO2
+Amplified by AMP and PEP, Inhibited by NADH and AcetylCoA (feedback inhibition)
+            -Details of key reactions, e.g., reversible, irreversible, CO2 generation, substrate level phosphorylation, precursor generation and depletion (anapleurotic pathways)
+Anapleurotic pathways are anabolic rxns creating intermediates
+            -Regulatory points and roles of cycle
+            -Aerobic vs. anaerobic features; similarities and differences
+            -Aerobic/anaerobic regulatory factors
+            -Exponential vs. stationary roles inE. coli
+ 
+VII.  C1, C2and C3metabolism
+            -Glyoxylate pathway, key reactions, TCA cycle bypass reactions
+            -Significance of bypassing isocitrate dehydrogenase and a-ketoglutarate dehydrogenase reactions
+            -Role of the glyoxylate pathway and its inability to be used under anaerobic conditions
+            -Control of the ICL, ICDH branch by covalent modification
+            -CO2fixation by autotrophs via Calvin cycle or reductive C4-dicarboxylic acid cycle pathways; signature enzymes
+            -Similarity of Calvin cycle to pentose phosphate pathway
+            -Carboxysome and RuBisCo and importance of carbonic anhydrase
+            -Reductive C4-dicarboxylic acid similarity to TCA cycle
+            -Methanogenesis and energy derivation from H2using CO2.
+                        -Hydrogenotrophic, methylotrophic, aceticlastic
+            -Volta experiment
+            -Syntrophic associations
+            -Methylotrophs vs. Methanotrophs
